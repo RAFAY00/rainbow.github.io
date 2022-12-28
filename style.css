@@ -1,0 +1,140 @@
+*
+{
+    border-style: border-box;
+    align-items: center;
+    /* display: flex;
+    justify-content: center; */
+    transition: all ease-in-out 1.5s;
+}
+.a
+{
+    width: 700px;
+    height: 700px;
+    /* border-radius: 50%; */
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+}
+.b
+{
+    width: 600px;
+    height: 600px;
+    /* border-radius: 50%; */
+    background-color: indigo;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+
+}
+.c
+{
+    width: 500px;
+    height: 500px;
+    /* border-radius: 50%; */
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+
+}
+.d
+{
+    width: 400px;
+    height: 400px;
+    /* border-radius: 50%; */
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+
+}
+.e
+{
+    width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+
+}
+.f
+{
+    width: 200px;
+    height: 200px;
+    /* border-radius: 50%; */
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+
+}
+.g
+{
+    width: 100px;
+    height: 100px;
+    /* border-radius: 50%; */
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    transform: rotate(90deg);
+    
+}
+.a:hover
+{
+    background-color: orange;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+    
+
+}
+.b:hover
+{
+    background-color: red;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
+.c:hover
+{
+    background-color: yellow;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
+.d:hover
+{
+    background-color: green;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
+.e:hover
+{
+    background-color: blue;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
+.f:hover
+{
+    background-color: indigo;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
+.g:hover
+{
+    background-color: violet;
+    border-radius: 50%;
+    transform: rotate(-90deg);
+
+
+}
